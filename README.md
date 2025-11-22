@@ -1,11 +1,12 @@
-# RFM Customer Behavior Prediction Project
+# RFM Customer Behavior Prediction
 
-## 📊 Project Overview
-Machine learning pipeline to predict customer purchasing behavior using RFM (Recency, Frequency, Monetary) analysis.
+## 📊 Results Summary
+- **Best Model**: [Check your performance_table.csv]
+- **Top Features**: [Check your feature importance files]
+- **Business Impact**: [Your lift and capture rate results]
 
-## 🤖 Models Implemented
-- Logistic Regression
-- Random Forest  
-- XGBoost
+## 🚀 Quick Start
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the pipeline: `python src/data_preprocessing.py`
 
 ## 📁 Project Structure
